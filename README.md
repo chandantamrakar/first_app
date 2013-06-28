@@ -1,3 +1,2 @@
 == README
-TEST TEST TEST!
-NEW improved test
+learning GIT
