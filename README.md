@@ -1,2 +1,4 @@
 == README
 learning GIT
+CHANDAN TAMRAKAR
+NEPAL
